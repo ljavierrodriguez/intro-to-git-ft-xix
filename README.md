@@ -34,3 +34,13 @@
     $ git branch
     $ git branch <name>
     $ git branch -D <name>
+
+# Activar una rama o crear y activar una rama (branch)
+
+    $ git checkout <name>
+    $ git checkout -b <name>
+
+
+# Unir cambios de una rama(branch) a otra
+
+    $ git merge prueba
