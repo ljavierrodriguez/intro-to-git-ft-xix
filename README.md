@@ -44,3 +44,7 @@
 # Unir cambios de una rama(branch) a otra
 
     $ git merge prueba
+
+# Verificar los cambios guardados 
+
+    $ git log
