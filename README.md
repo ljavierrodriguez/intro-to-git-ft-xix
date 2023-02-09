@@ -27,3 +27,9 @@
     $ git checkout <file>
 
     $ git reset -- hard HEAD~1
+
+
+# Listar, Crear, Eliminar branch(ramas)
+
+    $ git branch
+    $ git branch <name>
