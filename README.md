@@ -48,3 +48,9 @@
 # Verificar los cambios guardados 
 
     $ git log
+
+# Administrar repositorios remotos (github, gitlab, bitbucket, etc)
+
+Ver listado de Repositorios
+
+    $ git remote
