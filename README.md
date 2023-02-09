@@ -80,5 +80,11 @@ Descargar cambios al repositorio local
 
     $ git pull <source_name> <branch_name>
 
+Clonar repositorio remote al computador
 
-Fin Temporal de Git
+    $ git clone <url_repo>
+    
+    $ git clone -b <branch> <url_repo>
+
+
+#Fin Temporal de Git
