@@ -33,3 +33,4 @@
 
     $ git branch
     $ git branch <name>
+    $ git branch -D <name>
