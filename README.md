@@ -19,3 +19,11 @@
 # Guardar cambios en el repositorio 
 
     $ git commit -m "Mensaje Descriptivo de lo que se hizo"
+
+# Deshacer cambios 
+
+    $ git restore <file>
+
+    $ git checkout <file>
+
+    $ git reset -- hard HEAD~1
